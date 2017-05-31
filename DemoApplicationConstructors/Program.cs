@@ -19,7 +19,7 @@ namespace DemoApplicationConstructors
             a = 100;
             b = 75;
         }
-        static void Main(string[] args)
+        static void Main()
         {
             Program p = new Program();
             Console.WriteLine(p.a);
